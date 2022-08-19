@@ -1,0 +1,3 @@
+The stock price for Gamestop and the subreddit r/wallstreetbets are incredibly linked as the subreddit deals with dumb stock options and bets. However, in January of 2021, news spread of firms shorting the GME stock and this subreddit rallied to pump its price in an effort to cost big firms millions in their shorts. They succeeded, and r/wallstreetbets became popular due to media coverage on GME. Ever since, their daily posting numbers are rather linked to the price of GME.
+
+The following little project is a simple linear regression practice to re-familiarize myself with some data management and plotting.
